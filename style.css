@@ -1,0 +1,51 @@
+h1 {
+  font-family: "Major Mono Display", monospace;
+  display: inline-block;
+  text-align: center;
+  margin: auto;
+  font-size: 70px;
+  padding: 30px;
+  text-shadow: 4px 4px rgba(255, 0, 0, 0.7);
+}
+
+h1:hover {
+  text-shadow: 4px 4px rgba(255, 0, 0, 0.7);
+}
+
+.ok {
+  text-align: center;
+  position: relative;
+}
+
+/*ul {
+  list-style-type: none;
+}
+*/
+ul {
+  list-style-type: georgian;
+}
+
+.linky {
+  text-decoration: none;
+  font-family: "Wire One", sans-serif;
+  font-size: 70px;
+  text-align: right;
+  color: black;
+}
+
+.linky1 {
+  color: black;
+  text-decoration: none;
+  font-family: "Wire One", sans-serif;
+  font-size: 70px;
+}
+
+.linky:hover {
+  text-decoration: underline;
+  color: rgb(255, 0, 0);
+}
+
+.linky1:hover {
+  text-decoration: underline;
+  color: rgb(255, 0, 0);
+}
